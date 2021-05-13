@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Projects that may intrest you:
+- One-Page Developer ID [website](https://id.zentala.io) | [repo](https://github.com/zentala/id.zentala.io)
+  - staticaly generated with Parcel
+  - serverless, serverd on GitHub Pages, 
+  - open source & ready to fork and customize
+- Open Smart Desk [website](https://desk.zentala.io) | [repo](https://github.com/zentala/open-smart-desk)
+  - extend your height adjustable desk with smart controller, that measure time spent sitting and force you to walk or stand
+  - RPi, relays, PIR, laser metter... 
+
 <!--
 **zentala/zentala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
