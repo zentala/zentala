@@ -1,14 +1,17 @@
 ### Hi there 👋
+There is a few projects that may interest you:
 
-Projects that may intrest you:
-#### 💼 One-Page Developer ID 
-  - staticaly generated with Parcel
-  - serverless, serverd on GitHub Pages, 
+## One-Page Developer ID 💼
+<img src="https://github.com/zentala/id.zentala.io/raw/main/preview.gif" width="400"/>
+
+Fork to setup your own:
+  - serverless; hosted for free on [GitHub Pages](https://pages.github.com/), 
+  - staticaly generated with [Parcel.js](https://parceljs.org/) - zero configuration bundler,
   - open source & ready to fork and customize
 
-[website](https://id.zentala.io) | [repo](https://github.com/zentala/id.zentala.io)
+🌏 [website](https://id.zentala.io) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/id.zentala.io)
 
-#### 🪑 Open Smart Desk 
+## Open Smart (Height-Adjustable) Desk 🪑 
 Receipe:
   - take analog height adjustable computer desk
   - add hardware controller with - RPi, relays, PIR (movement sensor), laser metter... 
@@ -17,7 +20,7 @@ Receipe:
   - get statistics and historical analitycs about your time at desk 
   - both code and hardware are open source so you can develop your own features; contributors are welcomed ;)
 
-[website](https://desk.zentala.io) | [repo](https://github.com/zentala/open-smart-desk)
+🌏 [website](https://desk.zentala.io) &nbsp; | &nbsp; 📦 [repo](https://github.com/zentala/open-smart-desk)
 
 <!--
 **zentala/zentala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
