@@ -7,8 +7,8 @@ There is a few projects that may interest you:
 Fork to setup your own!
 
 Features:
-  - serverless; hosted for free on [GitHub Pages](https://pages.github.com/), 
-  - staticaly generated with [Parcel.js](https://parceljs.org/) - zero configuration bundler,
+  - serverless; hosted for free on [GitHub Pages](https://pages.github.com/) 
+  - staticaly generated with [Parcel.js](https://parceljs.org/) - zero configuration bundler
   - [GitPod](https://www.gitpod.io/)-ready (automated dev environment in the cloud)
   - open source & ready to fork and customize
 
