@@ -4,7 +4,9 @@ There is a few projects that may interest you:
 ## One-Page Developer ID 💼
 <img src="https://github.com/zentala/id.zentala.io/raw/main/preview.gif" width="400"/>
 
-Fork to setup your own:
+Fork to setup your own!
+
+Features:
   - serverless; hosted for free on [GitHub Pages](https://pages.github.com/), 
   - staticaly generated with [Parcel.js](https://parceljs.org/) - zero configuration bundler,
   - [GitPod](https://www.gitpod.io/)-ready (automated dev environment in the cloud)
