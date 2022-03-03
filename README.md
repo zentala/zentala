@@ -1,5 +1,5 @@
 ### Hi there 👋
-There is a few projects that may interest you:
+There are a few projects that may interest you:
 
 ## One-Page Developer ID 💼
 <img src="https://github.com/zentala/id.zentala.io/raw/main/preview.gif" width="400"/>
