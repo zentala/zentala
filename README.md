@@ -1,7 +1,6 @@
-### Hi there 👋
 Here are a few exciting projects that you might find interesting:
 
-## 🚀 Zentala Innovation Agency  
+# 🚀 Zentala Innovation Agency  
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) &nbsp; ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) &nbsp; ![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?logo=antdesign&logoColor=white)
 
@@ -14,7 +13,9 @@ Digital showcase for innovation prototyping services.
 
 🌏 [web](https://zentala.agency) &nbsp; | &nbsp; 📦 [repo](https://github.com/zentala/zentala.agency)
 
-## 🎮 Game Player Nick Finder 
+<br/><br/>
+
+# 🎮 Game Player Nick Finder 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) &nbsp; ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) &nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
@@ -22,12 +23,15 @@ An innovative platform designed to reconnect you with your old gaming friends.
 
 <img src="https://cdn.zentala.io/img/gpnf.png" alt="Game Player Nick Finder" width="500"/>
 
-Simply register your gaming nick, and you can be found by your friends from the past. A great way to reconnect and play together again!
+Simply register your gaming nick, and you can be found by your friends from the past. 
+
+A great way to reconnect and play together again!
 
 🌏 [web](https://gpnf.zentala.io) &nbsp; | &nbsp; 📦 [repo](https://github.com/zentala/game_player_nick_finder)
 
+<br/><br/>
 
-## 💼 One-Page Developer ID 
+# 💼 One-Page Developer ID 
 
 ![GitHub Pages](https://img.shields.io/badge/-GitHubPages-222222?logo=githubpages&logoColor=white) &nbsp; ![GitPod](https://img.shields.io/badge/-GitPod-FF6C37?logo=gitpod&logoColor=white) &nbsp; ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white) &nbsp; 
 
@@ -45,7 +49,9 @@ Features:
 
 🌏 [web](https://id.zentala.io) &nbsp; | &nbsp; 📦 [repo](https://github.com/zentala/id.zentala.io)
 
-## 🪑 Smart Height-Adjustable Desk  
+<br/><br/>
+
+# 🪑 Smart Height-Adjustable Desk  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) &nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) &nbsp; ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?logo=raspberrypi&logoColor=white) &nbsp; ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) &nbsp; ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
