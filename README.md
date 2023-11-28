@@ -18,7 +18,11 @@ Digital showcase for innovation prototyping services.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) &nbsp; ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) &nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-An innovative platform designed to reconnect you with your old gaming friends. Simply register your gaming nick, and you can be found by your friends from the past. A great way to reconnect and play together again!
+An innovative platform designed to reconnect you with your old gaming friends. 
+
+<img src="https://cdn.zentala.io/img/gpnf.png" alt="Game Player Nick Finder" width="500"/>
+
+Simply register your gaming nick, and you can be found by your friends from the past. A great way to reconnect and play together again!
 
 🌏 [web](https://gpnf.zentala.io) &nbsp; | &nbsp; 📦 [repo](https://github.com/zentala/game_player_nick_finder)
 
