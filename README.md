@@ -11,7 +11,7 @@ Digital showcase for innovation prototyping services.
 
  It serves as a hub for those looking to shape and transform ideas into tangible, market-ready prototypes.
 
-🌏 [web](https://zentala.agency) &nbsp; | &nbsp; 📦 [repo](https://github.com/zentala/zentala.agency)
+🌏 [website](https://zentala.agency) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/zentala.agency)
 
 <br/><br/>
 
@@ -27,7 +27,7 @@ Simply register your gaming nick, and you can be found by your friends from the 
 
 A great way to reconnect and play together again!
 
-🌏 [web](https://gpnf.zentala.io) &nbsp; | &nbsp; 📦 [repo](https://github.com/zentala/game_player_nick_finder)
+🌏 [website](https://gpnf.zentala.io) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/game_player_nick_finder)
 
 <br/><br/>
 
@@ -47,7 +47,7 @@ Features:
   - [GitPod](https://www.gitpod.io/)-ready (automated dev environment in the cloud)
   - open source & ready to fork and customize
 
-🌏 [web](https://id.zentala.io) &nbsp; | &nbsp; 📦 [repo](https://github.com/zentala/id.zentala.io)
+🌏 [website](https://id.zentala.io) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/id.zentala.io)
 
 <br/><br/>
 
@@ -63,7 +63,7 @@ Receipe:
   - get statistics and historical analitycs about your time at desk 
   - both code and hardware are open source so you can develop your own features; contributors are welcomed ;)
 
-🌏 [web](https://desk.zentala.io) &nbsp; | &nbsp; 📦 [repo](https://github.com/zentala/open-smart-desk)
+🌏 [website](https://desk.zentala.io) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/open-smart-desk)
 
 <!--
 **zentala/zentala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
