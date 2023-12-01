@@ -63,7 +63,7 @@ Receipe:
   - get statistics and historical analitycs about your time at desk 
   - both code and hardware are open source so you can develop your own features; contributors are welcomed ;)
 
-🌏 [website](https://desk.zentala.io) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/open-smart-desk) &nbsp; | &nbsp; 📣 [reddit](https://www.reddit.com/r/OpenSmartDesk/) &nbsp; | &nbsp; 💼 [tasks](https://github.com/zentala/open-smart-desk/projects)
+🌏 [website](https://desk.zentala.io) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/open-smart-desk) &nbsp; | &nbsp; <!-- 📣 [reddit](https://www.reddit.com/r/OpenSmartDesk/) &nbsp; | &nbsp; 💼 [tasks](https://github.com/zentala/open-smart-desk/projects) --> 📖 [wiki](https://github.com/zentala/desk.zentala.io/wiki)
 <!--
 **zentala/zentala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
