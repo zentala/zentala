@@ -21,7 +21,7 @@ Digital showcase for innovation prototyping services.
 
 An innovative platform designed to reconnect you with your old gaming friends. 
 
-<img src="https://cdn.zentala.io/img/gpnf.png" alt="Game Player Nick Finder" width="500"/>
+<img src="https://static.zentala.io/gpnf/sticker.png" alt="Game Player Nick Finder" width="500"/>
 
 Simply register your gaming nick, and you can be found by your friends from the past. 
 
