@@ -55,7 +55,6 @@
 ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka)
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
