@@ -23,13 +23,13 @@ Digital showcase for innovation prototyping services.
 
 An innovative platform designed to reconnect you with your old gaming friends. 
 
-<img src="https://static.zentala.io/gpnf/sticker.png" alt="Game Player Nick Finder" width="500"/>
+<img src="https://cdn.zentala.agency/gpnf/sticker.png" alt="Game Player Nick Finder" width="500"/>
 
 Simply register your gaming nick, and you can be found by your friends from the past. 
 
 A great way to reconnect and play together again!
 
-🌏 [website](https://gpnf.zentala.io) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/game_player_nick_finder)
+🌏 [website](https://gpnf.zentala.agency) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/game_player_nick_finder)
 
 <br/><br/>
 
@@ -49,7 +49,7 @@ Features:
   - [GitPod](https://www.gitpod.io/)-ready (automated dev environment in the cloud)
   - open source & ready to fork and customize
 
-🌏 [website](https://id.zentala.io) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/id.zentala.io)
+🌏 [website](https://id.zentala.agency) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/id.zentala.io)
 
 <br/><br/>
 
@@ -65,7 +65,7 @@ Receipe:
   - get statistics and historical analitycs about your time at desk 
   - both code and hardware are open source so you can develop your own features; contributors are welcomed ;)
 
-🌏 [website](https://desk.zentala.io) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/open-smart-desk) &nbsp; | &nbsp; <!-- 📣 [reddit](https://www.reddit.com/r/OpenSmartDesk/) &nbsp; | &nbsp; 💼 [tasks](https://github.com/zentala/open-smart-desk/projects) --> 📖 [wiki](https://github.com/zentala/desk.zentala.io/wiki)
+🌏 [website](https://desk.labs.zentala.agency) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/open-smart-desk) &nbsp; | &nbsp; <!-- 📣 [reddit](https://www.reddit.com/r/OpenSmartDesk/) &nbsp; | &nbsp; 💼 [tasks](https://github.com/zentala/open-smart-desk/projects) --> 📖 [wiki](https://github.com/zentala/desk.zentala.io/wiki)
 <!--
 **zentala/zentala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
