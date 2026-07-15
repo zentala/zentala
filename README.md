@@ -39,7 +39,7 @@ A great way to reconnect and play together again!
 
 A simple and elegant solution for developers to create their own ID page. 
 
-<img src="https://github.com/zentala/id.zentala.io/raw/main/preview.gif" width="500"/>
+<img src="https://github.com/zentala/id.zentala.pl/raw/main/preview.gif" width="500"/>
 
 Fork to setup your own!
 
@@ -49,7 +49,7 @@ Features:
   - [GitPod](https://www.gitpod.io/)-ready (automated dev environment in the cloud)
   - open source & ready to fork and customize
 
-🌏 [website](https://id.zentala.agency) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/id.zentala.io)
+🌏 [website](https://id.zentala.pl) &nbsp; | &nbsp; 📦 [repository](https://github.com/zentala/id.zentala.pl)
 
 <br/><br/>
 
