@@ -26,17 +26,6 @@ onboarding automation. Recent work:
 - [**catalog processor module**](https://github.com/DevStageIO/catalog-backend-module-example-processor) — processors extend how Backstage ingests information: they let you pull entities from non-standard sources (e.g. an API) and fill the catalog with them. A reference module showing how to read from a custom source and process it into the catalog.
 - [**TechDocs cookbook**](https://github.com/DevStageIO/backstage-techdocs-demo) — TechDocs formatting & visualization examples.
 
-## Recent contracts
-
-| Client | Work |
-|---|---|
-| **DSB** (Danish Rail) | Backstage IDP — full-stack plugins, RAG chat + MCP server |
-| **Bosch / BSH** | Microservices & backends for Home Connect |
-| **Samsung / Cheil** | Solution architecture for a socially-aware humanoid robot (ROS) |
-| **Ubudu** (Hong Kong) | IoT / real-time location systems across Asia |
-
-Full history → [LinkedIn](https://www.linkedin.com/in/zentala/)
-
 ## Open source
 
 | Project | What it is |
